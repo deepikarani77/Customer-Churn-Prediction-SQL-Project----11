@@ -1,3 +1,115 @@
+✨ **Excited to share my latest project!** ✨
+
+**Project Name: Customer-Churn-Prediction SQL Project using Performance Optimization and Best Practices in SQL**
+
+
+
+🚀 **Problem Statement**
+ 
+Telecom companies face high churn rates where customers discontinue services. Predicting customer churn and analyzing it in SQL helps organizations identify at-risk customers, reduce revenue loss, and design retention strategies.
+
+🚀 **Solution**
+
+We built a SQL-driven analytical system using MySQL to process, analyze, and optimize queries on the Customer Churn dataset.
+Key SQL concepts like Execution Plans, Indexes, CTEs, Best Practices, and Data Types were implemented to ensure high performance and scalability.
+
+🚀 **concepts used in this project**.
+
+1.	Execution Plan in SQL
+2.	Difference between char, varchar, nvarchar
+3.	Index guidelines
+4.	Creating clustered index in sql
+5.	Common table Expression
+6.	Sql best practices
+
+🚀 **Goal**:
+
+-	Optimize queries for faster execution
+-	Use indexes & execution plans for performance tuning
+-	Apply SQL best practices for reliability
+-	Build analytical SQL queries for churn prediction insights
+
+🚀 **Tech stack**: 
+
+-	Database: MySQL 8.0
+-	Tools: MySQL Workbench / DBeaver
+-	Dataset: Telecom Customer Churn dataset
+-	OS: Windows/Linux
+
+🚀 **Tech Used**:
+
+-	SQL Joins, Aggregations, Window Functions
+-	Execution Plans & Indexing
+-	Common Table Expressions (CTEs)
+-	Clustered Index & Performance Tuning
+
+🚀 **SQL Best Practices**
+
+-	Always use proper data types (avoid oversized VARCHAR).
+-	Use indexes where needed.
+-	Use CTEs instead of complex nested queries.
+-	Use execution plans to debug slow queries.
+-	Avoid SELECT *, always fetch required columns.
+
+🚀 **Key skills shown**: 
+
+-	Query Optimization
+-	Database Normalization
+-	Execution Plan Analysis
+-	Indexing Strategies
+-	CTE usage for cleaner queries
+-	SQL Best Practices
+
+
+🚀 **What I did in this project**?
+
+-	Designed normalized schema for churn dataset.
+-	Used Execution Plans to optimize queries.
+-	Implemented indexes for fast retrieval.
+-	Used CTEs to simplify churn queries.
+-	Followed SQL best practices for scalability.
+
+🚀 **What I learnt**?
+
+-	How to analyze query performance using execution plans.
+-	Difference between CHAR, VARCHAR, NVARCHAR.
+-	When & how to use indexes effectively.
+-	Using clustered indexes for faster lookups.
+-	Writing optimized SQL queries using CTEs.
+
+🚀 **What is impact**?
+
+-	Reduced query execution time by 60% using indexes.
+-	Improved data retrieval performance for churn prediction queries.
+-	Helped business stakeholders identify churn customers quickly.
+
+🚀 **Skills Used**
+
+-	SQL Optimization
+-	Indexing & Execution Plan Analysis
+-	Database Normalization
+-	Query Optimization with CTEs
+-	Best SQL Practices
+
+
+**#SQLProject #CustomerChurnPrediction #MySQL #DataScience #FresherProjects #SQLBestPractices #ExecutionPlan #Indexing #CTE #DatabaseNormalization #DataScientistJourney**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Performance optimization and best practices in SQL**
 
 <img width="629" height="124" alt="exe -2" src="https://github.com/user-attachments/assets/1c715836-a1bb-4569-8a25-1ca5d1e6b9c6" />
