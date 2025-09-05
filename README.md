@@ -94,22 +94,6 @@ Key SQL concepts like Execution Plans, Indexes, CTEs, Best Practices, and Data T
 
 **#SQLProject #CustomerChurnPrediction #MySQL #DataScience #FresherProjects #SQLBestPractices #ExecutionPlan #Indexing #CTE #DatabaseNormalization #DataScientistJourney**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Performance optimization and best practices in SQL**
 
 <img width="629" height="124" alt="exe -2" src="https://github.com/user-attachments/assets/1c715836-a1bb-4569-8a25-1ca5d1e6b9c6" />
